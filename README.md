@@ -38,5 +38,3 @@ Built with **Provider** for state management and **FirebaseAuth, Firestore, Fire
 ### 📧 yasserashraf3142@gmail.com
 #### 📱 +20 100 364 0081
 
-## 📂 Project Structure
-
