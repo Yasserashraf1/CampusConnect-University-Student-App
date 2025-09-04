@@ -1,16 +1,42 @@
-# campus
+# 📱 CampusConnect – University Student App
 
-A new Flutter project.
+A **Flutter + Firebase** mobile app that connects university students through groups, posts, and real-time notifications.  
+Built with **Provider** for state management and **FirebaseAuth, Firestore, Firebase Messaging** for backend services.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🔑 **Authentication**
+  - Email/Password login & registration
+  - Google Sign-In *(optional stretch)*
+  - Forgot password reset
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- 🗂 **Groups**
+  - Join/Create groups (e.g., “Computer Science 101”)
+  - View groups you’ve joined
+  - Real-time updates with Firestore streams
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- 📝 **Posts**
+  - Create posts inside groups
+  - View real-time posts feed
+  - Mention users with `@username`
+
+- 🔔 **Notifications**
+  - Push notifications when someone posts in a group
+  - Notification click → opens the group screen
+
+- 👤 **Profile (Stretch)**
+  - Upload profile picture (Firebase Storage)
+  - Update user info
+
+- 👍 **Extras (Stretch)**
+  - Likes & comments on posts
+  - Admin roles for groups
+
+## 👨‍💻 Developed by Yasser Ashraf
+### 📧 yasserashraf3142@gmail.com
+#### 📱 +20 100 364 0081
+
+## 📂 Project Structure
+
